@@ -1,6 +1,4 @@
-# Connect4Game-CODEBOZU
-
-# Connect 4 Game in Python
+# Connect4Game 
 
 ## Overview
 This is a simple implementation of the classic **Connect 4** game using Python. Two players take turns choosing columns, and the first player to align four of their markers either horizontally, vertically, or diagonally wins the game!
